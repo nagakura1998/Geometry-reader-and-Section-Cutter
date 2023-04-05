@@ -1,0 +1,4 @@
+C:/Users/trong/Downloads/SimpleXlsx r0.40/Source/build/CMakeFiles/INSTALL.dir
+C:/Users/trong/Downloads/SimpleXlsx r0.40/Source/build/CMakeFiles/SimpleXlsx.dir
+C:/Users/trong/Downloads/SimpleXlsx r0.40/Source/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/trong/Downloads/SimpleXlsx r0.40/Source/build/CMakeFiles/ZERO_CHECK.dir

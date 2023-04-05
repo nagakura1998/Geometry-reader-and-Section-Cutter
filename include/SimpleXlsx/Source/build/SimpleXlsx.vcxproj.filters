@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\PathManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\XLSXColors\XLSXColorLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\XLSXColors\clsRGBColorRecord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Chart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Chartsheet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Drawing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\SimpleXlsxDef.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Worksheet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\XlsxHeaders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\scratch\clsScratchTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\PathManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\UTF8Encoder.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\XMLWriter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Chart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Chartsheet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Drawing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\SimpleXlsxDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Worksheet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\XlsxHeaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\XLSXColors\XLSXColorLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\XLSXColors\clsRGBColorRecord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\scratch\clsScratchTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{85021358-DD1F-312F-A10C-942839886BE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CF211899-5D82-370C-9DBB-A31F0120C7A5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

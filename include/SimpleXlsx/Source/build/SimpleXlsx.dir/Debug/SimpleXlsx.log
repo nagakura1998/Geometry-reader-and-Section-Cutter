@@ -1,0 +1,40 @@
+﻿  Building Custom Rule C:/Users/trong/Downloads/SimpleXlsx r0.40/Source/CMakeLists.txt
+  PathManager.cpp
+  XLSXColorLib.cpp
+  clsRGBColorRecord.cpp
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\XLSXColors\clsRGBColorRecord.cpp(73,20): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  Chart.cpp
+  Chartsheet.cpp
+  Drawing.cpp
+  SimpleXlsxDef.cpp
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\SimpleXlsxDef.cpp(137,21): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\SimpleXlsxDef.cpp(159,25): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\SimpleXlsxDef.h(407,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\SimpleXlsxDef.cpp(112): message : see reference to function template instantiation 'char *SimpleXlsx::CellCoord::ToString<false>(char *) const' being compiled
+  Workbook.cpp
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(63,21): warning C4996: '_wgetenv': This function or variable may be unsafe. Consider using _wdupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(102,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(323,15): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(635,83): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(1627,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(1636,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(1645,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(1651,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(1655,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(1658,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Xlsx\Workbook.cpp(1684,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Worksheet.cpp
+  XlsxHeaders.cpp
+  zip.cpp
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.cpp(2315,252): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.cpp(2740,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.cpp(2761,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.cpp(2762,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.cpp(2765,30): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.cpp(2766,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\Zip\zip.cpp(2948,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  clsScratchTable.cpp
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\scratch\clsScratchTable.cpp(151,46): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\scratch\clsScratchTable.cpp(159,42): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+  SimpleXlsx.vcxproj -> C:\Users\trong\Downloads\SimpleXlsx r0.40\Source\build\Debug\SimpleXlsxd.lib

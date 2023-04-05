@@ -1,0 +1,10 @@
+^C:\USERS\TRONG\DOWNLOADS\SIMPLEXLSX R0.40\SOURCE\BUILD\CMAKEFILES\A952C8769FA35227F768E978E6FCCC9A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/trong/Downloads/SimpleXlsx r0.40/Source" "-BC:/Users/trong/Downloads/SimpleXlsx r0.40/Source/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/trong/Downloads/SimpleXlsx r0.40/Source/build/SimpleXlsx.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

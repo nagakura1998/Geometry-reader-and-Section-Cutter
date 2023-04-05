@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Dll1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  LicenseMgr.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\trong\Downloads\MFC-Visual-CPP-Applications-master\Honda_HOOD - Copy\x64\Debug\LicenseManager.lib and object C:\Users\trong\Downloads\MFC-Visual-CPP-Applications-master\Honda_HOOD - Copy\x64\Debug\LicenseManager.exp
+  Dll1.vcxproj -> C:\Users\trong\Downloads\MFC-Visual-CPP-Applications-master\Honda_HOOD - Copy\x64\Debug\LicenseManager.dll
